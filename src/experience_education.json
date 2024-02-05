@@ -1,0 +1,30 @@
+[
+    {
+        "title" : "Master's Degree of Master of Business Administration (MBA)",
+        "place": "Budapest University of Technology and Economics (BME)",
+        "time": "2016-2018",
+        "resposibilities" : [        
+            "Specialization in Management"
+        ]
+    },
+    {
+        "title" : "Master's Degree of Computer Engineering",
+        "place": "Budapest University of Technology and Economics (BME)",
+        "time": "2006-2013",
+        "resposibilities" : [        
+            "Specialization in Autonomous controlling systems and robotics"
+        ]
+    },
+    {
+        "title" : "PMP (Project Manager Professional) cerfified",
+        "place": "PMI (Project Management Institude)",
+        "time": "2023",
+        "resposibilities" : ""
+    },
+    {
+        "title" : "CSPO (Certified Scrum Product Owner) certified",
+        "place": "Scrum Alliance",
+        "time": "2016",
+        "resposibilities" : ""
+    }
+]

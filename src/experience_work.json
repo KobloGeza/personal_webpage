@@ -1,0 +1,106 @@
+[
+    {
+        "title" : "Engineering manager",
+        "place": "Platform Engineering, LastPass Ltd.",
+        "time": "2023-2023",
+        "resposibilities" : [        
+            "Line manager of 2 agile cross functional teams:",
+            [
+                "One DevOps team responsible for the non-production infrastructure of Lastpass on Amazon AWS, Microsoft Azure and on-prem environments",
+                "One CloudOps team (under construction) meant to be responsible to provide “DevOps” support for Engineering during new feature/service/component development. This will be done with the latest DevOps standards in mind for an easy handover for Platform Engineering organization for operation",
+                "People management, hiring, performance management, time report administration, vacation planning"
+            ]
+        ]
+    },
+    {
+        "title" : "Head of Program Office / Program Manager",
+        "place": "Ericsson Network Location, Ericsson Hungary Ltd.",
+        "time": "2022-2023",
+        "resposibilities" : [        
+            "Overall operational responsibility of the Product", 
+            "Budget ($10M), capacity (~150 HC / 15 teams)",
+            "Release / Development / Maintenance program management",
+            "Develop and execute Feature (scope, schedule, cost) roadmap plans across local/remote teams and their POs",
+            "Leading strategic features in the Cloud and 5G transformation",
+            "Stakeholder management across sites including Senior Management, Product Management and Customer Units",
+            "Develop management view on quality assurance activities, achievements and KPIs. Work on common quality targets, collect local reports and hold regular community sessions",
+            "Leading and mentoring members of the Program Office"
+        ]
+    },
+    {
+        "title" : "Engineering manager",
+        "place": "Ericsson Network Location, Ericsson Hungary Ltd.",
+        "time": "2019-2022",
+        "resposibilities" : [     
+            "Line manager of 2 agile cross functional teams (~16 members):", [
+                "One core development team that started the Cloud Native transformation of the product (Docker/K8s/K3s/Cpp/Golang technologies & Ericsson Cloud stack)",
+                "One near-shore supplier team working on 5G feature developments (Cpp/Java technologies)",
+                "People management, hiring, performance management, time report administration, vacation planning"
+            ],
+            "Supplier Relationship Management (Unit level responsibility): ", [
+                "Mentoring L1 line managers of a near-shore supplier",
+                "Driving project assignments to boost organization capacity with CN, Security and CI/CD related deliverables"
+            ],
+            "Infrastructure management (Unit level responsibility):  ", [
+                "SPOC towards the Ericsson`s internal cloud platform provider (capacity and financial planning)",
+                "Native hardware (capacity and financial planning)"
+            ],
+            "IT and Facility management (Unit level responsibility)  "
+        ]
+    },
+    {
+        "title" : "Engineering manager",
+        "place": "Packet Core / PaaS, Ericsson Hungary Ltd.",
+        "time": "2018-2019",
+        "resposibilities" : [        
+            "Line manager of 2 agile cross functional teams (~17 members):",
+            [
+                "Teams responsible for development & maintenance of PaaS layer of the product (C/Cpp, Dpdk technologies)",
+                "People management, hiring, performance management, time report administration, vacation planning"
+                
+            ],
+            "Cooperating with local teams (including Research) and with remote teams in Sweden, China and India",
+            "Area Quality Owner  (Unit level responsibility): responsible to collect and initiate quality improvements in the Unit (10 teams), implement them via the Development program, report their progress to senior management",
+            "Help the Agile transformation of the unit"
+            
+        ]
+    },
+    {
+        "title" : "Team Leader / Scrum Master",
+        "place": "Packet Core / PaaS, Ericsson Hungary Ltd.",
+        "time": "2017-2018",
+        "resposibilities" : [        
+            "Team Leader/Scrum master of 1 cross functional team", 
+            [
+                "Coordinate the team's work (distribute/load-balance work, hold way-of-working ceremonies)",
+                "Initiate, lead, and deliver feature developments for the Development Program",
+                "Mentoring newcomers"
+            ],
+            "Continue acting as a Senior Software Developer"          
+        ]
+    },
+    {
+        "title" : "(Senior) Software Developer",
+        "place": "Packet Core / IPR, Ericsson Hungary Ltd.",
+        "time": "2011-2017",
+        "resposibilities" : [        
+            "Development and maintenance of the embedded software running on the SmartEdge Router family’s routing ASICs (PPA / NP4 / Spider)",
+            "Optimizing the forwarding code for the highest performance, with keeping in mind the limitations of the code space",
+            "PaaS and SaaS ",
+            "International assignment in San Jose (United States CA) to provide on-site support for a feature development  ",
+            "Used languages: C++, C, MIPS Assembly and EzChip Ucode"       
+        ]
+    },
+    {
+        "title" : "Software Engineer Intern",
+        "place": "Healtcare / General Electric Hungary Ltd.",
+        "time": "2010-2011",
+        "resposibilities" : [        
+            "Development of a test assistant application for the CT scans (server-client architecture that runs and executes remote process calls in TCL on one or more servers)",
+            "Used languages: C++, TCL, XML"
+        ]
+    }
+]
+
+
+
