@@ -8,7 +8,7 @@ import exp_education from './experience_education.json';
 
 
 // TODO
-function hey() {alert('You clicked me!')}
+function hey() {alert('koblo.geza@gmail.com!')}
 document.querySelector(".b-email").onclick = hey
 
 
